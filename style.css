@@ -82,3 +82,8 @@ p {
   margin: 0 auto;
   color: burlywood;
 }
+@media (max-width: 768px) {
+  body {
+    height: 100vh;
+  }
+}
